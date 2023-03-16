@@ -10,7 +10,7 @@ The Javascript SDK for JavaScript doesn't have any standalone files that need to
 ### Getting Started
 1. You will need to contact partners@xyj.com to receive a partnerID
 
-2. Once you receive a partnerID, you can start to integrate the SDK into your app frontend.
+2. Once you receive a partnerID, you can start to integrate the SDK into your web app frontend.
 
 Add sdk url to your script tag 
 
@@ -20,7 +20,7 @@ Add sdk url to your script tag
 
 ```
 
-For initialising javascript sdk in your website in <script> tag
+For initialising javascript sdk in your web app in <script> tag
 
 ```javascript
 
